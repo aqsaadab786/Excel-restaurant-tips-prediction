@@ -8,6 +8,7 @@ Problem Statement:
 The problem tackled in this project is to develop a model that can forecast restaurant tips given specific input variables. The model will take into account factors such as the total bill amount, the number of diners, the day of the week, and other relevant parameters that might influence tipping behavior. The objective is to enhance decision-making for both restaurant staff and management to optimize service and customer satisfaction.
 
 Methodology:
+
 Data Collection: We gathered a comprehensive dataset of past restaurant transactions, including the total bill amount, sex, smoker(indicates if the customer is smoker or not), time, number of diners, tip amount, day of the week, and other potential influencing features.
 Data Preprocessing: The raw data was preprocessed in Excel, which involved handling missing values, outlier detection, and feature engineering to create relevant input variables.
 Model Building: Using Excel's built-in analytical functions and statistical tools, we constructed a predictive model to establish the relationship between input variables and tip amounts.
